@@ -16,7 +16,16 @@
  </ol>
  <p> The project is running and accessible from a web browser at http://localhost:3000/ </p>
 
- # Tecnologias Utilizadas
+# API Key
+<p>To consume the API, you need to create an account at https://www.themoviedb.org/ and after that go to Settings > API and copy the API key</p>
+<p>In the project, inside the <bold>src</bold> folder, I created a folder called "config" and inside I created a file "key.js" and I put: </p>
+<code>export const APIKey="putYourApiKeyHere" </code>
+<p>In "Home.jsx" I imported the api key and called it inside the url in the fetch method </p>
+<p> ***Don't forget to put this file with the api key on <bold>.gitignore</bold>, to make sure nobody sees this key***</p>
+<br>
+<p>You can do it like i did, or create a .env file and put the api key there</p>
+
+ # Technologies Used
  <ul>
  <li> <code> React.js </code> </li>
  <li> <code> Styled Components </code> </li>
