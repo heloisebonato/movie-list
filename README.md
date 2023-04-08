@@ -1,5 +1,5 @@
 ## Movie List
-<p align="left"><img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/></p>
+<p align="left"><img src="http://img.shields.io/static/v1?label=STATUS&message=FINISH&color=blue&style=for-the-badge"/></p>
 
 # Introduction
 <p> Movie List is a project that lists popular movies consumed from a movie API (https://developers.themoviedb.org/3/movies) </p>
