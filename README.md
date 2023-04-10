@@ -4,6 +4,11 @@
 # Introduction
 <p> Movie List is a project that lists popular movies consumed from a movie API (https://developers.themoviedb.org/3/movies) </p>
 
+
+https://user-images.githubusercontent.com/43188658/230957462-f29f4188-44c9-48c1-a978-90a07039bfe4.mp4
+
+
+
 # 📁 Installation
 <p> To run the Movie List project in your local development environment is very easy. Make sure you have Git and Node.js installed and follow the instructions below.</p>
 <ol>
